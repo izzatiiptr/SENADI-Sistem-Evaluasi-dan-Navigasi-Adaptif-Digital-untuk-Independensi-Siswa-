@@ -6,8 +6,6 @@
 
 *(Official Submission for #JuaraVibeCoding Competition)*
 
-**[🔍 View Live App on Google AI Studio](https://ai.studio/apps/536fb067-515a-4520-9d69-e54339a49fd9)**
-
 </div>
 
 ---
