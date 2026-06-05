@@ -1,8 +1,6 @@
 <div align="center">
 
-<img width="250" alt="Logo SENADI" src="logo-senadi.png" />
-
-# 🌟 SENADI: Sistem Evaluasi dan Navigasi Adaptif Digital untuk Independensi Siswa
+# SENADI: Sistem Evaluasi dan Navigasi Adaptif Digital untuk Independensi Siswa
 
 *(Official Submission for #JuaraVibeCoding Competition)*
 
